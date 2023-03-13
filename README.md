@@ -7,7 +7,9 @@ Node.js installed on your machine. If not, please download and install it from h
 \
 **Getting started**
 1. Clone the repository to your local machine using Git. You can use the following command in your terminal:
+```ruby
 git clone https://github.com/tyeele/ReactCodeTest
+```
 
 2. Navigate to the project directory in your terminal:
 ```ruby
@@ -35,5 +37,5 @@ npm test
 ```
 
 \
-**Conclusion**
+**Conclusion**、
 That's it! You should now have a basic understanding of how to run and test this React application.
