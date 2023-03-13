@@ -1,6 +1,7 @@
 # ReactApplication
 This is a React application that fetches a list of users from a JSONPlaceholder API, displays them in a table, and allows users to sort and filter the data. Pagination is also implemented to display a limited number of users per page. The styling is done using styled-components.
 
+\
 **Prerequisites**\
 Node.js installed on your machine. If not, please download and install it from https://nodejs.org/.
 
@@ -37,5 +38,5 @@ npm test
 ```
 
 \
-**Conclusion**、
+**Conclusion**\
 That's it! You should now have a basic understanding of how to run and test this React application.
